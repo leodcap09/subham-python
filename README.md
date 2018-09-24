@@ -1,3 +1,5 @@
+[![Build Status](https://sukumarbhattacharjee04.visualstudio.com/subham-project/_apis/build/status/leodcap09.subham-python)](https://sukumarbhattacharjee04.visualstudio.com/subham-project/_build/latest?definitionId=14)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
